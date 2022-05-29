@@ -113,7 +113,7 @@ button {
           justify-content: space-between;
   height: 100%;
   padding: 1.3333333333rem 0 3.0555555556rem;
-  background: url(../../img/hero/headphones.png) right 5% top 66%/51% auto no-repeat;
+  background: url(../img/hero/headphones.png) right 5% top 66%/51% auto no-repeat;
 }
 .hero__container:before {
   content: "";
@@ -161,7 +161,7 @@ button {
     margin-bottom: 3.5555555556rem;
     width: 17.7777777778rem;
     height: 17.7777777778rem;
-    background: url(../../img/hero/headphones-768.png) center center/contain no-repeat;
+    background: url(../img/hero/headphones-768.png) center center/contain no-repeat;
   }
 }
 @media screen and (max-width: 480px) {
@@ -488,7 +488,7 @@ button {
 
 .order-section {
   color: #FFFFFF;
-  background: url(../../img/order/background.png) center center/cover no-repeat;
+  background: url(../img/order/background.png) center center/cover no-repeat;
   height: 100vh;
   min-height: 36.2222222222rem;
   position: relative;
@@ -533,7 +533,7 @@ button {
   }
 }
 .specificities__item:before {
-  content: url(../../img/icons/circles.png);
+  content: url(../img/icons/circles.png);
   position: absolute;
   top: 3.0555555556rem;
   right: 0;
@@ -1043,7 +1043,7 @@ button {
   border-radius: 0.2222222222rem;
 }
 .radio--checkbox .radio__visible:before {
-  background: url(../../img/icons/check-mark.png) center center no-repeat;
+  background: url(../img/icons/check-mark.png) center center no-repeat;
 }
 
 .radio__item {
@@ -1195,31 +1195,31 @@ button {
 }
 
 .socials--icon--telegram .socials__link {
-  background: url(../../img/socials/css_sprites.png) -110px -60px;
+  background: url(../img/socials/css_sprites.png) -110px -60px;
 }
 .socials--icon--telegram .socials__link:hover {
-  background: url(../../img/socials/css_sprites.png) -110px -10px;
+  background: url(../img/socials/css_sprites.png) -110px -10px;
 }
 
 .socials--icon--vk .socials__link {
-  background: url(../../img/socials/css_sprites.png) -60px -110px;
+  background: url(../img/socials/css_sprites.png) -60px -110px;
 }
 .socials--icon--vk .socials__link:hover {
-  background: url(../../img/socials/css_sprites.png) -10px -110px;
+  background: url(../img/socials/css_sprites.png) -10px -110px;
 }
 
 .socials--icon--facebook .socials__link {
-  background: url(../../img/socials/css_sprites.png) -60px -10px;
+  background: url(../img/socials/css_sprites.png) -60px -10px;
 }
 .socials--icon--facebook .socials__link:hover {
-  background: url(../../img/socials/css_sprites.png) -10px -10px;
+  background: url(../img/socials/css_sprites.png) -10px -10px;
 }
 
 .socials--icon--insta .socials__link {
-  background: url(../../img/socials/css_sprites.png) -60px -60px;
+  background: url(../img/socials/css_sprites.png) -60px -60px;
 }
 .socials--icon--insta .socials__link:hover {
-  background: url(../../img/socials/css_sprites.png) -10px -60px;
+  background: url(../img/socials/css_sprites.png) -10px -60px;
 }
 
 .fixed-menu {
@@ -1955,7 +1955,7 @@ button {
   transition: -webkit-transform 0.3s ease-out;
   transition: transform 0.3s ease-out;
   transition: transform 0.3s ease-out, -webkit-transform 0.3s ease-out;
-  background: url(../../img/team/Polygon.png) center center/contain no-repeat;
+  background: url(../img/team/Polygon.png) center center/contain no-repeat;
 }
 
 .team__desc {
@@ -2009,7 +2009,7 @@ button {
 
 .catalog {
   position: relative;
-  background: url(../../img/hor-menu/74fda40506b8a70cdf88dab45544029f.png) center center/cover no-repeat;
+  background: url(../img/hor-menu/74fda40506b8a70cdf88dab45544029f.png) center center/cover no-repeat;
   color: #ffffff;
 }
 
