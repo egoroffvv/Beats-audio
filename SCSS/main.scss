@@ -1,0 +1,48 @@
+$containerWidth: 940px;
+$baseFontSize: 18px;
+
+//breakpoints
+
+$tablets: 768px;
+$phones: 480px;
+
+//colors
+$gray: #F5F5F5;
+$black: #181818;
+$white: #FFFFFF;
+$darkGray: #666666;
+
+@import "media";
+
+//z-indexes
+$z-sidebar: 100;
+
+//normalize
+@import url('https://necolas.github.io/normalize.css/8.0.1/normalize.css');
+
+//setups
+@import url('https://fonts.googleapis.com/css2?family=Alegreya+Sans:wght@400;700&family=Play:wght@400;700&display=swap');
+@import "../SCSS/layout.scss";
+
+//SCSS
+@import "../SCSS/blocks/hero.scss";
+@import "../SCSS/blocks/header.scss";
+@import "../SCSS/blocks/button.scss";
+@import "../SCSS/blocks/section.scss";
+@import "../SCSS/blocks/specificities.scss";
+@import "../SCSS/blocks/headline.scss";
+@import "../SCSS/blocks/reviews.scss";
+@import "../SCSS/blocks/int-avatar.scss";
+@import "../SCSS/blocks/form.scss";
+@import "../SCSS/blocks/radio.scss";
+@import "../SCSS/blocks/footer.scss";
+@import "../SCSS/blocks/fixed-menu.scss";
+@import "../SCSS/blocks/hamburger.scss";
+@import "../SCSS/blocks/products.scss";
+@import "../SCSS/blocks/peculiarities.scss";
+@import "../SCSS/blocks/fullscreen-menu.scss";
+@import "../SCSS/blocks/menu.scss";
+@import "../SCSS/blocks/modal.scss";
+@import "../SCSS/blocks/team.scss";
+@import "../SCSS/blocks/catalog.scss";
+@import "../SCSS/blocks/player.scss";
